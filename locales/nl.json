@@ -123,15 +123,15 @@
 			"replacementplural": "worden",
 			"type":
 			{
-				"GFT": "De groene container",
-				"REST": "De grijze container",
-				"PLASTIC": "De oranje container",
-				"PMD": "Het plastic, de metalen en de drankcartons",
-				"PAPIER": "De blauwe container",
-				"TEXTIEL": "Het textiel",
-				"GROF": "Het grof vuil",
-				"KERSTBOOM": "De kerstboom",
-				"NONE": "Niets"
+				"GFT": "de groene container",
+				"REST": "de grijze container",
+				"PLASTIC": "de oranje container",
+				"PMD": "het plastic, de metalen en de drankcartons",
+				"PAPIER": "de blauwe container",
+				"TEXTIEL": "het textiel",
+				"GROF": "het grof vuil",
+				"KERSTBOOM": "de kerstboom",
+				"NONE": "niets"
 			},
 			"weekdays":
 			{
